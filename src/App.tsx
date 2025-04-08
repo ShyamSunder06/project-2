@@ -206,15 +206,14 @@ const steps = [
 ];
 
 const techStack = [
-  "Next.js",
+  "React.js",
   "Tailwind CSS",
-  "Framer Motion",
+  "FastApi",
   "Redis",
   "Docker",
-  "AutoGen / CrewAI",
-  "Vector Databases",
-  "LLMs (Gemma, GPT)",
-  "Semantic Search"
+  "AutoGen",
+  "LLMs (Gemma)",
+  "Fiass"
 ];
 
 export default App;
